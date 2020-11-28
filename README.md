@@ -11,10 +11,9 @@
 `cd client`
 `npm install` (just once)
 `npm run serve`
-## --------
 
-Double Click the post to delete it
-
+##### Double Click the post to delete it
+<hr>
  Server Side  (localhost on port 8080)
 
 `cd server`
