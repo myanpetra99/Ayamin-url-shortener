@@ -8,15 +8,15 @@
 
  Client Side (localhost on port 8000)
 
-`cd client`
-`npm install` (just once)
-`npm run serve`
+`cd client` <br>
+`npm install` (just once) <br>
+`npm run serve` 
 
 ##### Double Click the post to delete it
 <hr>
  Server Side  (localhost on port 8080)
 
-`cd server`
-`npm install` (just once)
-`npm start`(using Nodemon)
+`cd server` <br>
+`npm install` (just once) <br>
+`npm start`(using Nodemon) <br>
 
